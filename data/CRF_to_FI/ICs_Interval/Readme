@@ -1,0 +1,9 @@
+x=Interval y=Index of curvature(IC)
+
+Fry, W., Kelleher, R. T., & Cook, L. (1960). A mathematical index of performance on fixed-interval schedules of reinforcement. Journal of the Experimental Analysis of Behavior, 3(3), 193–199. https://doi.org/10.1901/jeab.1960.3-193
+
+To calculate the index of curvature (IC), Fry et al. (1960) divided each interval into n equal segments and approximated the integral using these segments. 
+This procedure is necessary because time is a continuous variable and the area under the cumulative record cannot be calculated exactly from continuous data.
+In the present study, however, behavior was recorded in ticks, which are discrete.
+Therefore, instead of dividing an interval into n segments, we calculated the area directly from the cumulative counts between adjacent ticks. 
+This approach avoids the need for numerical approximation and yields an exact area for the discrete data.
