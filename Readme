@@ -1,3 +1,6 @@
+python scripts were interpreted by Python 3.13.2
+R scripts were interpreted by R 4.4.1
+
 "CRF_to_FI.py" shows source code for the experiment phase which AOs responded under CRF for 1000 ticks and then transitioned to FI schedules.
 "CRF_to_FR.py" shows source code for the experiment phase which AOs responded under CRF for 1000 ticks and then transitioned to FR schedules.
 "CriticalValue&ResponseRate.xlsx" contains 5% upper-tail critical values of response rates under the CRF-to-EXT schedules, calculated from empirical null distributions.
